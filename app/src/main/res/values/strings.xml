@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Gossip</string>
+    <string name="_91">+91</string>
+    <string name="get_otp">Get OTP</string>
+    <string name="enter_your_phone">Enter your phone</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="verify_otp">Verify OTP</string>
+    <string name="todo">TODO</string>
+    <string name="verify">\"Verify \"</string>
+    <string name="calls">Calls</string>
+    <string name="status">Status</string>
+    <string name="chats">Chats</string>
+    <string name="string_chats" />
+    <string name="chat">Chat</string>
+
+
+    <string name="settings">Settings</string>
+    <string name="invite">Invite</string>
+    <string name="string_groups" />
+    <string name="textview">TextView</string>
+
+
+</resources>
