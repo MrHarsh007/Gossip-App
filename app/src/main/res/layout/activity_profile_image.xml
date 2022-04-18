@@ -69,7 +69,7 @@
 
             <Button
                 android:id="@+id/continueBtn"
-                android:text="Send OTP"
+                android:text="Submit"
                 android:textColor="#263238"
                 app:backgroundTint="@android:color/holo_green_light"
                 app:cornerRadius="20dp"
