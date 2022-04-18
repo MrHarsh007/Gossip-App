@@ -1,10 +1,14 @@
 # Gossip-App
 In this app you can chat and send photos to your friends. 
+
 In this app all user are shown in chat activity no single user will be hidden.
+
+You can change chat and groupchat activity background usding firebase remote and toolbar colour also.
 
 
 ![1](https://user-images.githubusercontent.com/74703957/163779382-ec64c76e-e456-4e54-b5a2-7fd346de23f8.png)
-![2](https://user-images.githubusercontent.com/74703957/163779390-6cb5cd34-8f73-42c6-ab58-bf088acae9ab.png)
+![Screenshot_1650270101](https://user-images.githubusercontent.com/74703957/163779790-04b75e8d-963a-4640-b6f4-3604d199ee24.png)
+
 
 ![7](https://user-images.githubusercontent.com/74703957/163779415-70c4284c-3b5e-48a7-bd73-dc7f9fed271a.png)
 ![3](https://user-images.githubusercontent.com/74703957/163779426-b77dcfa7-7fd2-4b58-8b24-d8911d413126.png)
